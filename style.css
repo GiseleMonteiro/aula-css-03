@@ -63,7 +63,7 @@ nav ul li {
   margin-top: 30px;
 }
 .proz_description_services_one, .proz_description_services_two {
-  background: url(./img/bg_laranja.jpg);
+  background: url(./assets/bg_laranja.jpg);
   border-radius: 12px;
   max-width: 300px;
   height: 200px;
